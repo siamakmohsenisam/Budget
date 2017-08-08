@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CategoryR.swift"
+            timestampString = "522595838.894116"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "CategoryR"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.CategoryR.id.getter : Swift.String"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siamakmohsenisam/Document/development/ios2/Budget/CategoryR.swift"
+                  timestampString = "522607944.007607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.CategoryR.id.setter : Swift.String"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siamakmohsenisam/Document/development/ios2/Budget/CategoryR.swift"
+                  timestampString = "522607944.009666"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.CategoryR.init () -&gt; Budget.CategoryR"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siamakmohsenisam/Document/development/ios2/Budget/CategoryR.swift"
+                  timestampString = "522607944.011728"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.CategoryR.init (value : Any) -&gt; Budget.CategoryR"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siamakmohsenisam/Document/development/ios2/Budget/CategoryR.swift"
+                  timestampString = "522607944.01346"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.CategoryR.init (realm : __ObjC.RLMRealm, schema : __ObjC.RLMObjectSchema) -&gt; Budget.CategoryR"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siamakmohsenisam/Document/development/ios2/Budget/CategoryR.swift"
+                  timestampString = "522607944.015277"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Budget.CategoryR.init (value : Any, schema : __ObjC.RLMSchema) -&gt; Budget.CategoryR"
+                  moduleName = "Budget"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siamakmohsenisam/Document/development/ios2/Budget/CategoryR.swift"
+                  timestampString = "522607944.017095"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Budget/CategoryTableViewController.swift"
+            timestampString = "522856584.930369"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "tableView(_:editActionsForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
