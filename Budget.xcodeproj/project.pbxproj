@@ -25,7 +25,6 @@
 		65AE1B301F1D411800355DF7 /* Budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AE1B2F1F1D411800355DF7 /* Budget.swift */; };
 		65AE1B321F1D451900355DF7 /* MyPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AE1B311F1D451900355DF7 /* MyPattern.swift */; };
 		65AE1B341F1D4CE400355DF7 /* AccountPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AE1B331F1D4CE400355DF7 /* AccountPopupViewController.swift */; };
-		65AE1B361F1D4D9300355DF7 /* mario.png in Resources */ = {isa = PBXBuildFile; fileRef = 65AE1B351F1D4D9300355DF7 /* mario.png */; };
 		65AE1B381F1D4FBE00355DF7 /* date.png in Resources */ = {isa = PBXBuildFile; fileRef = 65AE1B371F1D4FBE00355DF7 /* date.png */; };
 		65AE1B3A1F1E3C9200355DF7 /* BudgetPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65AE1B391F1E3C9200355DF7 /* BudgetPopupViewController.swift */; };
 		65AE1B3C1F1E626700355DF7 /* click.png in Resources */ = {isa = PBXBuildFile; fileRef = 65AE1B3B1F1E626700355DF7 /* click.png */; };
@@ -59,7 +58,6 @@
 		65AE1B2F1F1D411800355DF7 /* Budget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Budget.swift; sourceTree = "<group>"; };
 		65AE1B311F1D451900355DF7 /* MyPattern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPattern.swift; sourceTree = "<group>"; };
 		65AE1B331F1D4CE400355DF7 /* AccountPopupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountPopupViewController.swift; sourceTree = "<group>"; };
-		65AE1B351F1D4D9300355DF7 /* mario.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mario.png; sourceTree = "<group>"; };
 		65AE1B371F1D4FBE00355DF7 /* date.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = date.png; sourceTree = "<group>"; };
 		65AE1B391F1E3C9200355DF7 /* BudgetPopupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BudgetPopupViewController.swift; sourceTree = "<group>"; };
 		65AE1B3B1F1E626700355DF7 /* click.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = click.png; sourceTree = "<group>"; };
@@ -131,10 +129,10 @@
 				65AE1B3D1F1E6F2C00355DF7 /* AccountTableViewController.swift */,
 				65AE1B431F1E757100355DF7 /* AccountTableViewCell.swift */,
 				65AE1B331F1D4CE400355DF7 /* AccountPopupViewController.swift */,
+				65AE1B411F1E717700355DF7 /* ReportViewController.swift */,
 				65AE1B3F1F1E712000355DF7 /* BudgetTableViewController.swift */,
 				65AE1B451F1E894C00355DF7 /* BudgetTableViewCell.swift */,
 				65AE1B391F1E3C9200355DF7 /* BudgetPopupViewController.swift */,
-				65AE1B411F1E717700355DF7 /* ReportViewController.swift */,
 				650DCD061F2A37A500881EB7 /* ReportTableViewCell.swift */,
 				65AE1B2C1F1D40E100355DF7 /* Model */,
 				65AE1B031F1CF83000355DF7 /* Picture */,
@@ -159,7 +157,6 @@
 			children = (
 				65AE1B3B1F1E626700355DF7 /* click.png */,
 				65AE1B371F1D4FBE00355DF7 /* date.png */,
-				65AE1B351F1D4D9300355DF7 /* mario.png */,
 				65AE1B061F1CF87800355DF7 /* cancel.png */,
 				65AE1B041F1CF86B00355DF7 /* save.png */,
 			);
@@ -248,7 +245,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				65AE1B361F1D4D9300355DF7 /* mario.png in Resources */,
 				65AE1AD91F1CE2A800355DF7 /* LaunchScreen.storyboard in Resources */,
 				65AE1B3C1F1E626700355DF7 /* click.png in Resources */,
 				65AE1AD61F1CE2A800355DF7 /* Assets.xcassets in Resources */,

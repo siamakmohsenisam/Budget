@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Budget/CategoryTableViewController.swift"
-            timestampString = "522785411.79948"
+            timestampString = "523895820.559218"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "44"
-            endingLineNumber = "44"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
             landmarkName = "showPopup()"
             landmarkType = "7">
          </BreakpointContent>

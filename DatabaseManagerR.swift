@@ -17,15 +17,15 @@ class DatabaseManagerR : NSObject {
     private override init(){}
     
     let realm = try? Realm()
-   
+    
     public func write(object : Object) {
         
         try? realm?.write {
             if let category = object as? CategoryR {
-               
+                
                 if let duplicateCategory = realm?.objects(CategoryR.self).filter("categoryName = %@", category.categoryName) {
                     if duplicateCategory.count > 0 {
-                    return
+                        return
                     }
                 }
             }
@@ -38,7 +38,7 @@ class DatabaseManagerR : NSObject {
                     }
                 }
             }
-                realm?.add(object, update: true)
+            realm?.add(object, update: true)
         }
     }
     
@@ -70,14 +70,14 @@ class DatabaseManagerR : NSObject {
     }
     
     public func deleteItem<T : Object>(object : T){
-         try? realm?.write {
+        try? realm?.write {
             realm?.delete(object)
         }
     }
     
     public func deleteAll(){
         try? realm?.write {
-             realm?.deleteAll()
+            realm?.deleteAll()
         }
     }
     
